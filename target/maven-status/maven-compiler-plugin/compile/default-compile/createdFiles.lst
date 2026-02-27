@@ -1,0 +1,4 @@
+com\rainz\schoolbackend\controller\AdmissionInquiryController.class
+com\rainz\schoolbackend\model\AdmissionInquiry.class
+com\rainz\schoolbackend\SchoolBackendApplication.class
+com\rainz\schoolbackend\repository\AdmissionInquiryRepository.class
